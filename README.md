@@ -9,6 +9,4 @@
 
 - <a href='https://github.com/DevJhojan/Cronometro'> Cronometro </a> Un simple aplicativo de consola para cronometrear  
 
-
-
 - <a href='https://github.com/DevJhojan/Game-Firts-Unity'> Mi primer Juego con Unity</a> Primer intento Fallido
